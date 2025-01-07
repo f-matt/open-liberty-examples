@@ -1,6 +1,6 @@
-## base-jsf
+## primefaces-dialog
 
-This is a sample web project, using Jakarta Server Faces as the frontend technology.
+This is a sample web project, using Jakarta Server Faces as the frontend technology, with the Primefaces library.
 
 ### Running the project:
 
